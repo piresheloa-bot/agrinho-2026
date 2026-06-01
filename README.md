@@ -1,34 +1,38 @@
-# agrinho-2026# 🌾 Agrinho 2026: Do Campo à Cidade, Conectando Gerações pelo Futuro Sustentável
+# agrinho-2026# # 🌾 Agrinho 2026: Conectando a Escola e o Campo Digital
 
-![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
-![Ano](https://img.shields.io/badge/Ano-2026-blue)
+![Status do Projeto](https://img.shields.io/badge/Status-Pronto%20para%20Uso-green?style=for-the-badge)
+![Tema](https://img.shields.io/badge/Tema-Agricultura%20Sustent%C3%A1vel-darkgreen?style=for-the-badge)
+![Plataforma](https://img.shields.io/badge/Plataforma-Intera%C3%A7%C3%A3o%20Digital-blue?style=for-the-badge)
 
 ## 📝 Sobre o Projeto
-Este projeto foi desenvolvido especialmente para a edição do **Programa Agrinho 2026**. O objetivo principal é [insira o objetivo aqui, ex: conscientizar a comunidade escolar sobre a importância da agricultura sustentável através de uma plataforma digital interativa].
+Este projeto foi desenvolvido especialmente para a edição do **Programa Agrinho 2026**. O objetivo central é **conscientizar a comunidade escolar sobre a importância da agricultura sustentável através de uma plataforma de interação digital**.
 
-Unindo tecnologia, inovação e a força do campo, buscamos criar soluções práticas para os desafios do agronegócio moderno, destacando o papel da sustentabilidade e da preservação ambiental para as próximas gerações.
+A iniciativa nasceu da necessidade de aproximar os estudantes, professores e familiares da realidade do campo moderno, mostrando como a tecnologia e as práticas ecológicas andam juntas para garantir a segurança alimentar e a preservação do planeta. Através de recursos interativos, transformamos dados complexos em conhecimento prático e acessível para o dia a dia da escola.
 
 ---
 
-## 🚀 Funcionalidades / Destaques
-* **[Funcionalidade 1]:** Descrição breve (ex: Quiz interativo sobre práticas agrícolas sustentáveis).
-* **[Funcionalidade 2]:** Descrição breve (ex: Painel informativo com dicas de economia de água e energia).
-* **[Funcionalidade 3]:** Descrição breve (ex: Espaço para compartilhamento de ações ecológicas da escola).
+## 🚀 Funcionalidades da Plataforma
+
+* **🎮 Quiz Interativo do Solo Vivo:** Desafios de perguntas e respostas sobre rotação de culturas, compostagem e preservação de nascentes, gerando um ranking saudável entre as turmas.
+* **🌱 Diário Virtual da Horta Escolar:** Um espaço para registrar a evolução de plantios reais na escola, conectando atividades práticas ao ambiente digital.
+* **📊 Calculadora de Pegada Ecológica:** Uma ferramenta simples que ajuda os alunos a entenderem o impacto do desperdício de alimentos e o consumo de água, sugerindo práticas sustentáveis.
+* **📚 Mural GreenTech:** Espaço para compartilhamento de notícias, infográficos e soluções tecnológicas voltadas ao agronegócio sustentável e à agricultura familiar.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-O projeto foi construído utilizando as seguintes ferramentas:
+A plataforma foi construída priorizando a acessibilidade e leveza para que funcione em qualquer dispositivo:
 
-* **Linguagens:** HTML5, CSS3, JavaScript (ou insira as tecnologias do seu projeto)
-* **Design/Prototipagem:** Figma / Canva
-* **Documentação:** Markdown
+* **Front-End:** HTML5 estruturado, CSS3 responsivo (estilizado com cores que remetem à natureza) e JavaScript Nativo para as interações e dinâmica do Quiz.
+* **Design:** Prototipado e planejado com foco na experiência do usuário (UX/UI) jovem e escolar.
+* **Documentação e Controle:** Markdown e Git.
 
 ---
 
-## 📁 Estrutura de Pastas
+## 📁 Estrutura do Repositório
 ```text
-├── 📂 assets          # Imagens, logotipos e ilustrações do Agrinho
-├── 📂 src             # Código-fonte do projeto (scripts, estilos)
-├── 📄 index.html      # Página principal do projeto
-└── 📄 README.md       # Documentação do projeto
+├── 📂 assets          # Identidade visual, imagens da horta e ícones interativos
+├── 📂 css             # Estilização visual (design responsivo e temas)
+├── 📂 js              # Lógica do quiz, calculadora ecológica e interações
+├── 📄 index.html      # Portal principal e centralizador da plataforma
+└── 📄 README.md       # Documentação completa do projeto
